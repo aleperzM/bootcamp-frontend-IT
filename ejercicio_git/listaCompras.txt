@@ -4,4 +4,11 @@ Lechuga
 Tomate
 Cebolla
 Queso Cremoso
+<<<<<<< HEAD
+=======
+Huevos
+Harina
+Aceite
+Vinagre
+>>>>>>> feature/lista1
 
